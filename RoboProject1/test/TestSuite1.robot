@@ -21,6 +21,10 @@ MySecondTest
 MyThirdTest
     Log    i am inside the 3rd test    
     
+
+MyFourthTest
+    Log    i am inside the 4th test  
+    
 # FirstSeleniumTest
     # Open Browser    https://google.com    chrome    
     # Click Button    id=L2AGLb    
